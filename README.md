@@ -32,5 +32,3 @@ This project is licensed under the [MIT License](LICENSE.md).
 Please ensure that you have the necessary datasets (if any) for training and testing the model.
 
 ---
-
-Feel free to customize this description according to the specifics of your project, and include any additional details that you find relevant.
